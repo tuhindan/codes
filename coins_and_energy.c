@@ -1,3 +1,11 @@
+*/QUESTION
+Coins and energy - given two same length lists of coins and energy, and an initial energy value, find maximum coins that can be collected, such that-
+(a) Moving ahead once requires one energy.
+(b) Can only move ahead and cannot skip.
+(c) Can stop anywhere.
+(d) Energy value must never go negative.
+(e) At every step, can only pick either energy at that index or coin at that index.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
