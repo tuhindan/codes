@@ -70,13 +70,15 @@ int coinsAndEnergy(int coins[],int energy[],int initialEnergy,int n)
     should be equal to n-1*/
     
     int **DP = memAlloc(n,n,true,-1);
-    
     /*So allocating a 2D matrix of size nXn
     x axis for the house number (0 - n-1)
     y axis for the energy (0 - n-1)
     
-    and DP[i][j] signifies the no of coins that can be collected till
-    ith house with jth amount of Energy left*/
+    and DP[i][j] signifies the number of coins that can be collected till
+    ith house with jth amount of Energy left
+    
+    DP[house_no][energy_left] = coins_collected */
+    
     
     /*REMEMBER : jumping to the first house dosent require energy
     subsequent jump will require*/
@@ -91,7 +93,7 @@ int coinsAndEnergy(int coins[],int energy[],int initialEnergy,int n)
     
     ans = coins[0];
     
-    /** And finding the starting point 's' **/
+    /**/
     for(i = 1 ; i < n ; i++)
     {
         for(j = 1 ; j < n ; j++)
