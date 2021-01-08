@@ -1,20 +1,20 @@
 Dynamic
-  Q)coins and energy (in git)
+  Q) coins and energy (in git)
   
 Recursion
 
 Stack
-  Q)http://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/
-  Q)next largest number
+  Q) http://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/
+  Q) next largest number
 
 Heap
-  Q)Median in a infinite series
+  Q) Median in a infinite series
 
 Queue
 
 
 Tree
-  Q)Inorder Successesor in BST of a number
+  Q) Inorder Successesor in BST of a number
     if node->right == null and node is parent->left, return parent
     if node->right == null and node is parent->left, return NULL
     
@@ -24,10 +24,20 @@ Graph
 
 Matrix
 
-  Q)http://www.geeksforgeeks.org/a-boolean-matrix-question/
+  Q) http://www.geeksforgeeks.org/a-boolean-matrix-question/
     try without extra Space (use 1st row and column to mark and 2 var for marking 1st row and column)  
     
     
 Bit Manipulation
-  Q)http://www.geeksforgeeks.org/position-of-rightmost-set-bit/
+  Q) http://www.geeksforgeeks.org/position-of-rightmost-set-bit/
     2s complement
+  Q) http://www.geeksforgeeks.org/build-lowest-number-by-removing-n-digits-from-a-given-number/
+    n and n+1
+  Q) http://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
+    
+Mislaneous
+  Q) http://www.geeksforgeeks.org/build-lowest-number-by-removing-n-digits-from-a-given-number/
+  Q) https://www.geeksforgeeks.org/check-if-a-number-can-be-expressed-as-ab-set-2/
+  Q) https://www.geeksforgeeks.org/count-d-digit-positive-integers-with-0-as-a-digit/
+  Q) https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/
+      n2 sol -> first sort the array
