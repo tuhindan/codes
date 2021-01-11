@@ -41,3 +41,9 @@ Mislaneous
   Q) https://www.geeksforgeeks.org/count-d-digit-positive-integers-with-0-as-a-digit/
   Q) https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/
       n2 sol -> first sort the array
+  Q) https://www.geeksforgeeks.org/find-number-of-triangles-possible/
+      n2 sol
+  Q) https://www.geeksforgeeks.org/find-four-numbers-with-sum-equal-to-given-sum/
+      n3 and n2lon(n)
+  Q) https://www.geeksforgeeks.org/find-the-missing-number/
+      swapping, progressive sum, progreessive xor**(can be used for any range)
