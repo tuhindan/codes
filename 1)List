@@ -4,9 +4,15 @@ Dynamic
   Q) https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
       2 var sol
   
+Backtracking
+  Q) https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/
+      use direction array
+  
 Recursion
   Q) https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-3-worst-case-linear-time/
       Quick select (searching the balanced pivot)
+  Q) https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
+      Swap character
 Stack
   Q) http://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/
   Q) next largest number
@@ -53,3 +59,7 @@ Mislaneous
       n3 and n2lon(n)
   Q) https://www.geeksforgeeks.org/find-the-missing-number/
       swapping, progressive sum, progreessive xor**(can be used for any range)
+  Q) https://www.geeksforgeeks.org/square-root-of-an-integer/
+      log(n) -> binary search b/w 1 and n/2 or progressive increment 
+  Q) https://www.geeksforgeeks.org/a-product-array-puzzle/
+      forward and backward traversal and store the val in differnt array
