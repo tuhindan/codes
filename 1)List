@@ -1,8 +1,12 @@
 Dynamic
   Q) coins and energy (in git)
+  Q) https://www.geeksforgeeks.org/mobile-numeric-keypad-problem/
+  Q) https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
+      2 var sol
   
 Recursion
-
+  Q) https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-3-worst-case-linear-time/
+      Quick select (searching the balanced pivot)
 Stack
   Q) http://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/
   Q) next largest number
@@ -34,6 +38,8 @@ Bit Manipulation
   Q) http://www.geeksforgeeks.org/build-lowest-number-by-removing-n-digits-from-a-given-number/
     n and n+1
   Q) http://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
+  Q) https://www.geeksforgeeks.org/position-of-rightmost-set-bit/
+      log2(n & -n{2s complement}) +1
     
 Mislaneous
   Q) http://www.geeksforgeeks.org/build-lowest-number-by-removing-n-digits-from-a-given-number/
