@@ -38,6 +38,9 @@ Matrix
     try without extra Space (use 1st row and column to mark and 2 var for marking 1st row and column)  
     
     
+Binary Search
+  Q) https://www.geeksforgeeks.org/element-1st-array-count-elements-less-equal-2nd-array/
+    
 Bit Manipulation
   Q) http://www.geeksforgeeks.org/position-of-rightmost-set-bit/
     2s complement
@@ -63,3 +66,9 @@ Mislaneous
       log(n) -> binary search b/w 1 and n/2 or progressive increment 
   Q) https://www.geeksforgeeks.org/a-product-array-puzzle/
       forward and backward traversal and store the val in differnt array
+  
+  
+  
+  
+  Q) https://www.geeksforgeeks.org/count-maximum-points-on-same-line/
+    n2 by storing point, slope in hashmap
