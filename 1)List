@@ -24,6 +24,11 @@ Heap
 Queue
 
 
+Array
+  Q) https://www.geeksforgeeks.org/find-a-sorted-subsequence-of-size-3-in-linear-time/
+      1) build 2 array (small and large)
+      2) 2 times next greater element
+
 Tree
   Q) Inorder Successesor in BST of a number
     if node->right == null and node is parent->left, return parent
