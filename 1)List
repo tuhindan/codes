@@ -33,6 +33,7 @@ Tree
   Q) Inorder Successesor in BST of a number
     if node->right == null and node is parent->left, return parent
     if node->right == null and node is parent->left, return NULL
+  Q) https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/ 
     
 Graph
   
